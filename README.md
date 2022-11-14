@@ -1,12 +1,22 @@
 # fromal specefcation 
 ### we used a petri net to formal a traffic light
 ### the rules is that when one traffic sign in on the rest must be off
-### this is the pic of the work
-![صورة واتساب بتاريخ 2022-11-09 في 14 58 09](https://user-images.githubusercontent.com/82799241/201680919-5ff3121b-c39f-4126-8b87-5a44df645db0.jpg)
+- The two signals in lanes 1 can be green at the same time and the rest of the signals are red. 
+- The two signals in Lane 2 can be green at the same time and the rest of the signals are red.
+- The signal in Route 3 can be green and the rest of the signals are red
+- The signal in track 4 can be green and the rest of the signals are red 
+- The signals should work in the order above 
+- Lane 5 signals allow cars to reverse traffic when this does not conflict with another signal. 
+- this is the pic of the work
+## to see the solution PDF
+[formally spEcify the following system.pdf](https://github.com/psau-edu-sa/se3131-article-Reema-rah/files/10003858/formally.spEcify.the.following.system.pdf)
 
-### and this is the video
 
-https://user-images.githubusercontent.com/82799241/201681032-893b9b2c-0929-4a4d-9c7e-6858b0d92503.mp4
 
-## also there is an idea of having a U turn so here it is
-![صورة واتساب بتاريخ 2022-11-09 في 14 58 09](https://user-images.githubusercontent.com/82799241/201681211-bf43398d-7929-48e1-871b-079edc339d75.jpg)
+https://user-images.githubusercontent.com/82799241/201685228-d1ac7ad1-d3f5-4e8a-a959-ccb55a915fac.mp4
+
+
+
+
+
+
